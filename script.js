@@ -1,6 +1,6 @@
-let marks;
+let age;
 
-marks = 39;
+age = 39;
 
 
 
