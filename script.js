@@ -4,18 +4,18 @@ age = 39;
 
 
 
- if(marks>=60){ 
+ if(age>=60){ 
     console.log("The ticket price:$8");
 }
 
-else if(marks>=18){ 
+else if(age>=18){ 
     console.log("The ticket price:$15");
 }
 
-else if(marks>=5){ 
+else if(age>=5){ 
     console.log("The ticket price:$10");
 }
 
-else if(marks<5){
+else if(age<5){
     console.log("The ticket is free");
 }
